@@ -5,11 +5,11 @@ This project aims to analyse a dataset and communicate findings using Pandas, Nu
 
 ## Project specifications
 
-- A note specifying which dataset you analyzed
-- A statement of the question(s) you posed
-- A description of what you did to investigate those questions
-- Documentation of any data wrangling you did
-- Summary statistics and plots communicating your final results
+- A note specifying which the dataset analyzed
+- A statement of the question(s) posed
+- A description of what is done to investigate those questions
+- Documentation of any data wrangling done
+- Summary statistics and plots communicating final results
 
 ## Introduction
 In this project, we will be analyzing data associated with female breast cancer. In particular, we will be interested in finding trends between the number of breast cancer deaths, the number of breast cancer new cases, income per person (GDP per capita) and population growth in differents countries in 2006 and 2016. Below are the questions we will be exploring: 
