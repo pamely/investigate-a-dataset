@@ -54,3 +54,12 @@ In the previous section, we explore our data. Indeed, we created visualizations 
 
 ## Limitations
 There are not all the world's countries in our dataset. For instance, the **United Kingdom Overseas Territory of Saint Helena, Ascension and Tristan da Cunha** is not in the dataset. However, it is a west african country. So, the analysis we made did not take into account some countries.
+
+## Useful links
+[Gapminder](https://www.gapminder.org/data/)
+
+[World bank: The classification of countries by income](http://datatopics.worldbank.org/world-development-indicators/stories/the-classification-of-countries-by-income.html)
+
+[World development indicators: Gross national income](http://datatopics.worldbank.org/world-development-indicators/themes/economy.html#gross-national-income)
+
+[West Africa countries](https://en.wikipedia.org/wiki/West_Africa)
